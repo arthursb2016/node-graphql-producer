@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastify": "3.2",
+    "fastify-gql": "5.3"
+  }
+}
